@@ -19,10 +19,6 @@ CultureLinkr is a React-based web application designed to connect users with div
   - React.js
   - CSS
   - JavaScript
-- **Backend**: (if applicable)
-  - (Mention backend technologies if used, such as Node.js, Express, etc.)
-- **Database**: (if applicable)
-  - (Mention the database technology, such as MongoDB, PostgreSQL, etc.)
 
 ## Installation Instructions
 
